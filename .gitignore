@@ -1,2 +1,5 @@
 .idea/
 .venv/
+/console_output.txt
+/file_output.txt
+/pandas_output.txt
